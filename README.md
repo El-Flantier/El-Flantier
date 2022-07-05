@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @El-Flantier
+- 👀 I’m interested in AI, API scratches and Physics libs.
+- 🌱 I’m currently learning way too much stuff.
+- 💞️ I’m looking to collaborate on any particular open-source project that bring my interest
+- 📫 Feel free to @ me on Twitter : @ElFlantier
